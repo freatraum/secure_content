@@ -15,8 +15,8 @@ dependencies:
   flutter_portal: ^1.1.1
   provider: ^6.0.2
   screen_capture_event: ^1.1.1
-    git: https://github.com/freatraum/secure_content.git
-    ref: main
+    git: https://github.com/freatraum/screen_capture_event.git
+    ref: master
 
   screen_protector: ^1.4.1
 
