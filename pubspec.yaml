@@ -2,7 +2,7 @@ name: secure_content
 description: Protect your app from screenshots, screen recording & on recent apps screen. Works for both Android & iOS, using native code.
 version: 1.0.0
 homepage: https://hashstudios.dev
-repository: https://github.com/codenameakshay/secure_content
+repository: https://github.com/freatraum/secure_content.git
 
 environment:
   sdk: ">=2.12.0 <4.0.0"
@@ -15,6 +15,9 @@ dependencies:
   flutter_portal: ^1.1.1
   provider: ^6.0.2
   screen_capture_event: ^1.1.1
+    git: https://github.com/freatraum/secure_content.git
+    ref: main
+
   screen_protector: ^1.4.1
 
 dev_dependencies:
